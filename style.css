@@ -1,0 +1,84 @@
+#name {
+    background-color: #6388e0;
+    font-family: jost;
+    padding: 0.5rem;
+    border-radius: 0.9375rem;
+    color: white;
+}
+
+body {
+    position: fixed;
+    background-repeat: cover;
+    background-image: url("http://backgroundlabs.com/wp-content/uploads/2013/05/swirls-seamless-pattern.png")
+}
+.nav-item {
+    font-family: jost;
+    font-weight: bold;
+}
+.navbar .navbar-collapse {
+    white-space: nowrap;
+    width:100%;
+} 
+.navbar {
+    background-color: #e6e6e6;
+}
+.card {
+    position: relative;
+    font-family: jost;
+    font-size: 0.9375rem;
+    margin: 2rem;
+    border-radius: 15px;
+}
+#cardName {
+    font-family: jost; 
+    color: #6388e0;
+    font-weight: bold;
+    border-bottom: 0.0625rem solid black;
+}
+
+.card-text {
+    text-align: center;
+    float: right;
+}
+
+a:hover {
+    background-color: #6388e0;
+    border-radius: 0.9375rem;
+    color: white;
+}
+
+#portHead {
+    padding: 5px;
+    margin: 2rem;
+    font-family: jost;
+    font-weight: bold;
+    border-bottom: 1px solid black;
+}
+
+#portImages {
+    margin: 2rem;
+}
+
+#port {
+    width: 400px;
+    background-color: white;
+    border-radius: 15px;
+    margin: 2rem;
+}
+
+form {
+    margin-left: 2rem;
+    margin-right: 60rem;
+    margin-top: 2rem;
+    font-family: jost;
+    font-weight: bold;
+    background-color: white;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.submitButton { 
+    background-color: #6388e0;
+    border-radius: 15px;
+    color: white;
+}
